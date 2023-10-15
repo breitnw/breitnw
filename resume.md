@@ -1,5 +1,10 @@
 # Nicholas W. Breitling
+Computer Science major at Northeastern University
+
+Expected graduation: **May 2027**
+
 breitling.nw@gmail.com
+
 +1 (952) 905-4220
 
 ---
