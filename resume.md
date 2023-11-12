@@ -43,31 +43,39 @@ breitling.nw@gmail.com
 - One year, on-site lab opportunity connects dedicated students peers and mentors in the student’s area of research during the school year
 - Computer graphics research project: Improving sphere blending performance for fluid simulation applications using ray-marched rendering
 - Worked with Vulkan to develop and optimize separate ray-marched and mesh rendering engines, utilizing marching-cubes and a smooth-min distance field, respectively, for sphere blending
+
 **Humanity Alliance Service Project, Victoria, MN: May 2021 - Present**
 - Worked with the Humanity Alliance, a Twin Cities non-profit preparing and delivering over 9,000 nutritious meals per week to food-insecure families across 9 counties
 - Developed and programmed a user-friendly interface to streamline integration of meal requests and delivery data with an interactive map, greatly reducing manual entry time and improving efficiency of weekly planning.
 - Automated the process for calculating and assigning routes to volunteer delivery drivers
+
 **Minnetonka Robotics Team 3082 (“Chicken Bot Pie”), Captain:** Sept. 2019 - Present
 - Tasked with overseeing both programming and electronics sub-teams, creating timelines, and communicating schedules and concerns to adult coaches 
 - Additional responsibilities include developing both autonomous and teleoperated code for the robot and teaching Java skills to new members
 - Helped guide a team of approximately ten programmers in creating a stereoscopic vision system using OpenCV, a highly mobile Swerve drivetrain, in addition to other subsystems
+
 **VANTAGE UX Design, Pre-Professional Program, Minnetonka High School:** Sept. 2021 - June 2022
 - LMI Lawn Care - Brainerd, MN - Project Lead/Communications Lead, website redesign 
   - Built out a full redesign of LMI’s website, improving upon user experience with iterative usability testing
   - Moved through multiple phases of ideation, data collection, prototyping, development, and presentation
 - TwoMinuteTeacher, ACT Prep company - Minnetonka, MN - Project Lead, website redesign
 - Excelsior-Lake Minnetonka Historical Society - Excelsior, MN - Project Lead, mobile app design
+
 **National Honor Society Member: Sept. 2021 - June 2022**
 - Accepts students who demonstrate leadership, service, and academic achievement
 - Members meet monthly and complete a minimum of 15 hours of service over the course of the school year
-**Computer Science Club Member:** Sept. 2021 - June 2022                                                                                                            	
-Discussed current topics and trends in computer science during weekly meetings
-Minnetonka HS Band, Euphonium: Sept. 2019 - June 2021
-Varsity Band (9th grade)
-Symphonic Band (10th grade)
-Scouts BSA, Eagle Scout Service Project: May - Aug. 2020
-Led and organized a large-scale project benefiting the Carver-Scott Humane Society, including the planning and facilitation of the construction of cat climbing shelves for a new visitation room and 25 cat beds for prospective foster families (201 service hours among 14 volunteers)
-Served as Patrol Leader, Assistant Patrol Leader, Troop Librarian, and Troop Historian
+
+**Computer Science Club Member:** Sept. 2021 - June 2022                                                                                            
+- Discussed current topics and trends in computer science during weekly meetings
+
+**Minnetonka HS Band, Euphonium: Sept. 2019 - June 2021**
+- Varsity Band (9th grade)
+- Symphonic Band (10th grade)
+
+**Scouts BSA, Eagle Scout Service Project: May - Aug. 2020**
+- Led and organized a large-scale project benefiting the Carver-Scott Humane Society, including the planning and facilitation of the construction of cat climbing shelves for a new visitation room and 25 cat beds for prospective foster families (201 service hours among 14 volunteers)
+- Served as Patrol Leader, Assistant Patrol Leader, Troop Librarian, and Troop Historian
+
 **Piano:** 2014-2020 
 - Private lessons, 7 yrs. Participated in several concerts yearly, including holiday concerts for a local nursing home; continue to enjoy playing
 	
