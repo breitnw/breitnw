@@ -1,4 +1,4 @@
-Hey, what's up, I'm Nick! I'm a 2nd-year CS student at Northwestern University, and I'm a big fan of dumb software and functional programming.
+Hey, I'm Nick! I'm a 3rd-year CS student at Northwestern University, and I'm a big fan of dumb software and functional programming.
 
 Here are some things I've made that you can take a look at:
 
