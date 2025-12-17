@@ -1,4 +1,4 @@
-Hey! I'm a 3rd-year undergrad at Northwestern researching [programming language pragmatics](https://cacm.acm.org/research/the-rational-programmer-investigating-programming-language-pragmatics/). I'm a big fan of silly gadgets, beautiful abstractions, human-made software, and functional programming.
+Hey! I'm a 3rd-year undergrad at Northwestern researching [programming language pragmatics](https://cacm.acm.org/research/the-rational-programmer-investigating-programming-language-pragmatics/). I'm a big fan of silly gadgets, beautiful abstractions, functional programming, and human-made software.
 
 Here are some cool things I've made that you can take a look at:
 
