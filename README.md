@@ -6,7 +6,7 @@ Here are some cool things I've made that you can take a look at:
 - [micromusic](https://github.com/breitnw/micromusic), my Apple Music miniplayer
 - [mndco11age.xyz](https://mndco11age.xyz), my personal website
 
-And here are some of the maybe-cool-if-you're-into-it, research-y things I've contributed to:
+And here are some of the might-be-cool-if-you're-into-it, research-y things I've contributed to:
 
 - [stlc-termination](https://github.com/breitnw/stlc-termination), my proof of termination for the simply-typed lambda calculus
 - [trace-contracts-324](https://github.com/breitnw/trace-contracts-324), an operational-semantics model of trace contracts built in [PLT Redex](https://redex.racket-lang.org/)
