@@ -14,4 +14,4 @@ And here are some of the might-be-cool-if-you're-into-it, research-y things I've
 
 There's plenty of other cool stuff too, but you might have to dig through a heap of NixOS and Emacs-related nonsense to find it :)
 
-Please note that I will never accept any PRs with AI-generated code.
+Please note that I will never accept PRs with commits by generative AI agents. 
