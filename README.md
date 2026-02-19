@@ -11,7 +11,5 @@ And here are some of the might-be-cool-if-you're-into-it, research-y things I've
 - [stlc-termination](https://github.com/breitnw/stlc-termination), my proof of termination for the simply-typed lambda calculus
 - [trace-contracts-324](https://github.com/breitnw/trace-contracts-324), an operational-semantics model of trace contracts built in [PLT Redex](https://redex.racket-lang.org/)
 - [r-compile-server](https://github.com/PRL-PRG/r-compile-server), a just-in-time compilation infrastructure for R
-
-There's plenty of other cool stuff too, but you might have to dig through a heap of NixOS and Emacs-related nonsense to find it :)
-
-Please note that I will never accept PRs with commits by generative AI agents. 
+  
+Please note that I will never accept PRs with commits made by GenAI agents. Your code is much better when you write it! Believe in yourself!
