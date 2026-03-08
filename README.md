@@ -1,4 +1,4 @@
-Hey! I'm a senior (and prospective PhD student!) at Northwestern researching [programming language pragmatics](https://cacm.acm.org/research/the-rational-programmer-investigating-programming-language-pragmatics/). I'm a big fan of beautiful abstractions and human-made software.
+Hey! I'm a senior (+ prospective PhD student) at Northwestern researching [programming language pragmatics](https://cacm.acm.org/research/the-rational-programmer-investigating-programming-language-pragmatics/). I'm a big fan of beautiful abstractions and human-made software.
 
 Here are some cool things I've made:
 
