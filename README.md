@@ -1,4 +1,4 @@
-Hey! I'm a senior (+ prospective PhD student) at Northwestern researching [programming language pragmatics](https://cacm.acm.org/research/the-rational-programmer-investigating-programming-language-pragmatics/). I'm a big fan of beautiful abstractions and human-made software.
+I'm a senior (+ prospective PhD student) at Northwestern researching programming language pragmatics. I'm a big fan of beautiful abstractions and human-made software.
 
 Here are some cool things I've made:
 
@@ -12,4 +12,4 @@ And here are some of the might-be-cool-if-you're-into-it, research-y things I've
 - [trace-contracts-324](https://github.com/breitnw/trace-contracts-324), an operational-semantics model of trace contracts built in [PLT Redex](https://redex.racket-lang.org/)
 - [r-compile-server](https://github.com/PRL-PRG/r-compile-server), a just-in-time compilation infrastructure for R
   
-Please note that I will never accept PRs with commits made by GenAI agents. Your code is much better when you write it! Believe in yourself!
+I will never accept PRs with commits made by GenAI agents. Your code is much better when you write it! Believe in yourself!
