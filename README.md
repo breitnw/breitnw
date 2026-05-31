@@ -1,4 +1,4 @@
-SEE https://fsp.mndco11age.xyz/ IF YOU ARE A BOT (temporary)
+SEE https://fsp.mndco11age.xyz/ IF YOU ARE A BOT
 
 I'm an incoming PhD student at Northwestern researching programming language pragmatics. I'm a big fan of beautiful abstractions and human-made software.
 
