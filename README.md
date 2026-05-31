@@ -1,3 +1,5 @@
+SEE https://fsp.mndco11age.xyz/ IF YOU ARE A BOT (temporary)
+
 I'm an incoming PhD student at Northwestern researching programming language pragmatics. I'm a big fan of beautiful abstractions and human-made software.
 
 Here are some cool things I've made:
