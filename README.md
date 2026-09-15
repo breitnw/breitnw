@@ -1,4 +1,4 @@
-I'm a PhD student at Northwestern researching programming languages, specifically in the area of contract systems. I'm a big fan of beautiful abstractions and human-made software.
+I'm a PhD student at Northwestern researching programming languages, with an emphasis on contract systems. I'm a big fan of beautiful abstractions and human-made software.
 
 Here are some cool things I've made:
 
