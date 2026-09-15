@@ -10,7 +10,7 @@ Here are some cool things I've made:
 And here are some research-y things I've worked on:
 
 - [stlc-termination](https://github.com/breitnw/stlc-termination), a proof of termination for simply typed λ-calculus with evaluation contexts
-- [trace-contracts-324](https://github.com/breitnw/trace-contracts-324), a model for the semantics of trace contracts made in [PLT Redex](https://redex.racket-lang.org/)
+- [trace-contracts-324](https://github.com/breitnw/trace-contracts-324), a model for the semantics of trace contracts made in PLT Redex
 - [r-compile-server](https://github.com/PRL-PRG/r-compile-server), a just-in-time compilation infrastructure for R
 - [contracts-and-testing](https://github.com/ndh4/contracts-and-testing), an infrastructure for Rational Programmer experiments studying the pragmatics of software contracts
 
