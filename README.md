@@ -14,5 +14,5 @@ And here are some research-y things I've worked on:
 - [r-compile-server](https://github.com/PRL-PRG/r-compile-server), a just-in-time compilation infrastructure for R
 - [contracts-and-testing](https://github.com/ndh4/contracts-and-testing), an infrastructure for Rational Programmer experiments studying the pragmatics of software contracts
 
-<sup><sub>In general, and especially for creative work, I will never accept pull requests aided by generative AI. Your code is much better when you write it! Believe in yourself!</sub></sup>
+In general, and especially for creative work, I will never accept pull requests aided by generative AI. Your code is much better when you write it! Believe in yourself!
 
