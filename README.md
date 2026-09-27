@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I have moved to [Codeberg](https://codeberg.org/breitnw). Please go there to see my current work!
+
 I'm a PhD student at Northwestern researching programming languages, with an emphasis on contract systems. I'm a big fan of beautiful abstractions and human-made software.
 
 Here are some cool things I've made:
